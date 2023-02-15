@@ -1,0 +1,1 @@
+print("Hi oll, thid is SMES KOK")
